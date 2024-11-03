@@ -1,0 +1,10 @@
+feature_engine=1.8.1=pyhd8ed1ab_0
+joblib=1.4.2=pyhd8ed1ab_0
+numpy=2.0.2=py39h60232e0_0
+pandas=2.2.3=py39h2366fc2_1
+pydantic=2.9.2=pyhd8ed1ab_0
+python=3.9.20=hfaddaf0_1_cpython
+ruamel.yaml=0.18.6=py39ha55e580_1
+scikit-learn=1.5.2=py39hdd013cc_1
+scipy=1.13.1=py39h1a10956_0
+strictyaml=1.7.3=pyhd8ed1ab_0
